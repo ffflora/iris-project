@@ -14,10 +14,11 @@ Comparison of different linear SVM classifiers on a 2D projection of the iris da
 The accuracy of the chosen algorithms are as follows:
 
 ```
-0.8 				# 'SVC with linear kernel',
+0.8 			# 'SVC with linear kernel',
 0.6888888888888889	# 'LinearSVC (linear kernel)',        
 0.7777777777777778	# 'SVC with RBF kernel',
 0.7777777777777778	# 'SVC with polynomial (degree 3) kernel',
 0.5111111111111111	# 'xgboost with gblinear'
 ```
 
+![](https://raw.githubusercontent.com/FFFlora/iris-project/master/plot.png)
