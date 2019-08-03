@@ -22,3 +22,8 @@ The accuracy of the chosen algorithms are as follows:
 ```
 
 ![](https://raw.githubusercontent.com/FFFlora/iris-project/master/plot.png)
+
+---
+In this part I added ROC-AUC curve with 6-fold cross valication, and calculated the AUC (area under the curve) of iris dataset. The figure roughly shows how the classifier output is affected by changes in the training data.
+
+![](https://raw.githubusercontent.com/FFFlora/iris-project/master/ROC-AUC_curve.png)
